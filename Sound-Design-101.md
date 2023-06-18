@@ -45,7 +45,6 @@ ADSR stands for Attack, Decay, Sustain, and Release - these are the four stages 
 
 In 3x Osc (as well as many other synthesizers), you can set an ADSR envelope for the volume, pitch, and filter cutoff frequency. These allow you to shape the amplitude, pitch, and tonal content of a sound over time, providing the fundamental tools for sound design.
 
-
 ## The Patches
 
 ### Overview the Patches
@@ -83,7 +82,7 @@ These patches serve as an introduction to sound design in FL Studio, and underst
 
 1. **Waveform Selection**: Start by setting all oscillators in 3x Osc to sine waves, which are perfect for creating the smooth, low-frequency content of a kick.
 
-2. **Tuning and Mixing**: Tune the oscillators to different octaves to add more harmonic content to the sound. For example, set OSC 1 to -24 semitones, OSC 2 to -36 semitones, and OSC 3 to -48 semitones.
+2. **Tuning and Mixing**: Tune the oscillators to different octaves to add more harmonic content to the sound. For example, OSC 2 to -12 semitones, and OSC 3 to -24 semitones.
 
 3. **Volume Envelope**: Set the volume envelope with a fast attack, short decay, no sustain, and no release. This will give the sound a sharp, percussive quality.
 
@@ -107,7 +106,7 @@ These patches serve as an introduction to sound design in FL Studio, and underst
 
 3. **Volume Envelope**: Set the volume envelope with a fast attack, short decay, no sustain, and no release. This will make the sound short and percussive, like a real hi-hat.
 
-4. **Effects**: In the Mixer, add some reverb to give the hi-hat a sense of space.
+4. **Effects**: In the Mixer, add some reverb to give the hi-hat a sense of space. Boost high mids slightly in EQ to similate the characteristic resonance of a real high-hat.
 
 #### Open Hi-Hat
 
@@ -117,7 +116,7 @@ These patches serve as an introduction to sound design in FL Studio, and underst
 
 3. **Volume Envelope**: Set the volume envelope with a fast attack, moderate decay, slight sustain, and short release.
 
-4. **Effects**: In the Mixer, add some reverb to give the hi-hat a sense of space. You can use a longer reverb decay time than you did for the closed hi-hat to make the sound more sustained.
+4. **Effects**: In the Mixer, add some reverb to give the hi-hat a sense of space. You can use a longer reverb decay time than you did for the closed hi-hat to make the sound more sustained. Boost high mids slightly in EQ to similate the characteristic resonance of a real high-hat.
 
 ### Bass Sounds
 
