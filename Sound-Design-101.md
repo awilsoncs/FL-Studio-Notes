@@ -23,16 +23,16 @@ The tutorial will walk you through creating a variety of synth sounds using FL S
 
 Refer back to this section as needed. If you're comfortable exploring 3x Osc and know your way around stock plugins, you can safely skip this.
 
-- **Oscillator**: The component in a synthesizer that generates a basic waveform like sine, saw, square, and triangle. The selection of waveform, pitch, phase offset, and volume settings in 3x Osc shapes the character of your sound. ![Oscillator Image](TODO: insert image link)
-- **Filter**: Used to sculpt the sound by removing or boosting certain frequencies. The most common types are low-pass, high-pass, and band-pass.![Filter Image](TODO: insert image link)
-- **Envelope**: A tool for shaping a sound over time, defined by its Attack, Decay, Sustain, and Release (ADSR). For example, a piano note has a quick attack and decay, a low sustain, and a slow release. ![ADSR Image](TODO: insert image link)
-- **Reverb**: An effect simulating the sound reflections in a physical space, adding depth and space to your sounds. ![Reverb Image](TODO: insert image link)
-- **Delay**: An effect creating echoes of a sound, adding complexity and width to your sounds. ![Delay Image](TODO: insert image link)
-- **Detune**: The process of slightly altering the pitch of oscillators in relation to each other to create a thicker, "chorused" (or layered) sound. ![Detune Image](TODO: insert image link)
-- **White Noise**: A type of noise that has equal intensity at different frequencies, similar to the sound of a waterfall or TV static. Often used for percussive sounds and sound effects. ![White Noise Image](TODO: insert image link)
-- **Pitch**: The perceived frequency of a sound, determining how "high" or "low" a sound is. Pitch can be manipulated for creative effect. ![Pitch Image](TODO: insert image link)
-- **Cutoff Frequency**: In the context of a filter, the cutoff frequency is the point where the filter starts to affect the sound. Think of it as the filter's "threshold." ![Cutoff Image](TODO: insert image link)
-- **Resonance**: A boost at the cutoff frequency, making a filter sound more pronounced or "resonant." ![Resonance Image](TODO: insert image link)
+- **Oscillator**: The component in a synthesizer that generates a basic waveform like sine, saw, square, and triangle. The selection of waveform, pitch, phase offset, and volume settings in 3x Osc shapes the character of your sound.
+- **Filter**: Used to sculpt the sound by removing or boosting certain frequencies. The most common types are low-pass, high-pass, and band-pass.
+- **Envelope**: A tool for shaping a sound over time, defined by its Attack, Decay, Sustain, and Release (ADSR). For example, a piano note has a quick attack and decay, a low sustain, and a slow release.
+- **Reverb**: An effect simulating the sound reflections in a physical space, adding depth and space to your sounds.
+- **Delay**: An effect creating echoes of a sound, adding complexity and width to your sounds.
+- **Detune**: The process of slightly altering the pitch of oscillators in relation to each other to create a thicker, "chorused" (or layered) sound.
+- **White Noise**: A type of noise that has equal intensity at different frequencies, similar to the sound of a waterfall or TV static. Often used for percussive sounds and sound effects.
+- **Pitch**: The perceived frequency of a sound, determining how "high" or "low" a sound is. Pitch can be manipulated for creative effect.
+- **Cutoff Frequency**: In the context of a filter, the cutoff frequency is the point where the filter starts to affect the sound. Think of it as the filter's "threshold."
+- **Resonance**: A boost at the cutoff frequency, making a filter sound more pronounced or "resonant."
 
 ### Understanding ADSR Envelopes
 
